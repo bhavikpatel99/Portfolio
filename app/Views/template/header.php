@@ -11,7 +11,6 @@
         .btn-resume {
             @apply bg-blue-500 text-white;
         }
-
         .btn-resume:hover {
             @apply bg-blue-700;
         }
